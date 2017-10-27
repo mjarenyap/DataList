@@ -234,4 +234,5 @@ public class StringList
 	}
 
 	private String[] list;
+	private int extraNum;
 }
