@@ -1,4 +1,3 @@
-// added a commment
 import java.util.ArrayList;
 
 public class BooleanList
